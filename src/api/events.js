@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "http://envent-backend.herokuapp.com",
+  baseURL: "https://envent-backend.herokuapp.com",
 });
